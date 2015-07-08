@@ -1,0 +1,10 @@
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\bin\Debug\AutoIncreasementVerNumber.exe
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\bin\Debug\AutoIncreasementVerNumber.pdb
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\bin\Debug\AutoIncreasementVerNumber.xml
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\AutoIncreasementVerNumber.Resources.resources
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\ResGen.read.1.tlog
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\ResGen.write.1.tlog
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\AutoIncreasementVerNumber.exe
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\AutoIncreasementVerNumber.xml
+E:\VS.Project\AutoIncreasementVerNumber\AutoIncreasementVerNumber\obj\x86\Debug\AutoIncreasementVerNumber.pdb
